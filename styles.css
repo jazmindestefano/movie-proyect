@@ -66,6 +66,7 @@ ul{
     z-index: 2;
     width: 25px;
     height: 25px;
+    display: none;
 }
 
 /* showcase*/
@@ -238,6 +239,7 @@ hr{
         margin-right: 40px;
     }
     .menu-principal-btn{
+        display: block;
         margin-right: 15px;
     }
 
